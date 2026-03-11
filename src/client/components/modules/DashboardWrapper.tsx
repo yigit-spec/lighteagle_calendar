@@ -48,7 +48,7 @@ function DashboardWrapper({ children }: { children: React.ReactNode }) {
                 <FileText className="size-4 text-white" />
               </div>
               <span className="font-semibold text-lg hidden sm:block">
-                Calendar V2 Sample App
+                Weya Command Center
               </span>
             </div>
           </div>
